@@ -1,0 +1,49 @@
+div{
+    background-color:skyblue;
+    height: 150vh;
+    width: 100vh;
+}
+.box{
+    background-color: white;
+    height: 130px;
+    width: 800px;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    margin-left: 55px;
+}
+h4{
+    margin-left: 10px;
+} 
+input{
+    margin-left: 10px;
+}
+H1{
+    border-bottom: 1px solid black;
+} 
+.gap{
+    border-bottom: 1px solid black;
+} 
+.jet{
+    background-color: rgb(78, 78, 238); 
+    height: 30px;
+    width: 80px; 
+} 
+.bad{ 
+    margin-left: 200px;
+}
+#yet{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-top: 30px; 
+}
+.net{ 
+    color: red;
+} 
+.met{
+    margin-top: -30px;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
