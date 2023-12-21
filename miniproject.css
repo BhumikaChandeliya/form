@@ -1,6 +1,6 @@
 div{
     background-color:skyblue;
-    height: 150vh;
+    height: 140vh;
     width: 100vh;
 }
 .box{
@@ -25,9 +25,11 @@ H1{
     border-bottom: 1px solid black;
 } 
 .jet{
-    background-color: rgb(78, 78, 238); 
+    background-color: rgb(19, 18, 18); 
+    color: white;
+    border-radius: 10px;
     height: 30px;
-    width: 80px; 
+    width: 100px; 
 } 
 .bad{ 
     margin-left: 200px;
@@ -46,4 +48,7 @@ H1{
 body{
     display: flex;
     justify-content: center;
+}
+.not{
+    margin-left: 20px;
 }
